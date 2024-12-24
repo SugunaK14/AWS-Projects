@@ -1,0 +1,1 @@
+A collection of innovative projects and solutions leveraging AWS cloud services, designed to showcase scalable, secure, and efficient cloud architectures. This repository includes implementations using AWS Lambda, EC2, S3, DynamoDB, CloudFormation, and other core AWS services. Ideal for developers and cloud enthusiasts looking to explore and learn about AWS.
